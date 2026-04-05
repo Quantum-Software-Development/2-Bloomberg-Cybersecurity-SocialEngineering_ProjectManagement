@@ -49,14 +49,19 @@
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
-<br><br>
+
 
 <!--Confidentiality statement -->
 
+<br><br>
+
 #
 
-<br><br><br>
+<br><br>
 
+
+
+<!-- ========= START Confidentiality statement ========= -->
 > [!NOTE]
 > 
 > ⚠️ Heads Up
@@ -72,44 +77,33 @@
 >
 >
 
-
-
 <br><br>
 
 #
 
-<!--END Confidentiality statement -->
-
-
-<br><br><br>
-
-
-<!-- ======================================= Start DEFAULT HEADER ===========================================  -->
-
-
-
-> [!TIP]
-> 
-> ## Project Management Companion Repository
->
-> This repository serves as a dedicated **Project Management layer** for the broader Cybersecurity and Social Engineering initiative.  
-> It centralizes governance models, structured methodologies, risk frameworks, and execution best practices applied to:
->
-> - Data Science  
-> - Artificial Intelligence  
-> - Cybersecurity initiatives  
-> - Secure technology projects  
->
-> #
->
-> ### 🔗 Access the Main Repository
-> [Cybersecurity and Social Engineering – Main Repository](https://github.com/Quantum-Software-Development/1-Main_Cybersecurity_SocialEngineering_Repository) 
-> <br>
-> 
-
-
-
 <br><br>
+<!-- ========= END Confidentiality statement  ========= -->
+
+
+<!-- ========= START Main Repo REFERENCE  ========= -->
+> [!TIP]
+>
+> This repository is part of the flagship project:
+> **🔐 Cybersecurity, Social Engineering & AI Security — Main Hub**
+>
+> Explore the complete ecosystem of materials, analyses, and notebooks in the central repository:
+>
+> * 🔗 **[Cybersecurity, Social Engineering & AI Security — Main Hub Repository](https://github.com/Quantum-Software-Development/1-Cybersecurity-SocialEngineering_Main_Hub_Repository-PUCSP)**
+>
+> *Part of the Humanistic AI Data Modeling Series — where data connects with human insight… and occasionally gets socially engineered. ⚡️
+
+<br><br><br><br>
+<!-- ========= END Main Repo REFERENCE  ========= -->
+
+
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
+
+
 
 
 ## [Overview]()
